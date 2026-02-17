@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/jeanbaptistezirnstein/Library/Mobile%20Documents/com~apple~CloudDocs/Applications%20Vercel%20Supabase/calculette/app/layout.js"],"sourcesContent":["import './globals.css'\nexport const metadata = { title: 'Calculette Carte Grise & Écotaxe' }\nexport default function RootLayout({ children }) {\n  return <html lang=\"fr\"><body>{children}</body></html>\n}\n"],"names":[],"mappings":";;;;;;;;;AACO,MAAM,WAAW;IAAE,OAAO;AAAmC;AACrD,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBAAO,2VAAC;QAAK,MAAK;kBAAK,cAAA,2VAAC;sBAAM;;;;;;;;;;;AAChC"}},
+    {"offset": {"line": 36, "column": 0}, "map": {"version":3,"sources":["file:///Users/jeanbaptistezirnstein/Library/Mobile%20Documents/com~apple~CloudDocs/Applications%20Vercel%20Supabase/calculette/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,iNACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

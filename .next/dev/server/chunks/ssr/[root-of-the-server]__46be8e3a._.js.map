@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///Users/jeanbaptistezirnstein/Library/Mobile%20Documents/com~apple~CloudDocs/Applications%20Vercel%20Supabase/calculette/app/calculette/page.js"],"sourcesContent":["import Calculette from \"@/components/Calculette\";\n\nexport const metadata = {\n  title: \"Calculette Écotaxe & Carte Grise\",\n  description:\n    \"Simulateur malus CO₂, taxe au poids et coût total carte grise — Barèmes NEDC/WLTP, Loi de finances 2025, 101 départements.\",\n};\n\nexport default function CalculettePage() {\n  return <Calculette />;\n}\n"],"names":[],"mappings":";;;;;;;;;;;;;;AAEO,MAAM,WAAW;IACtB,OAAO;IACP,aACE;AACJ;AAEe,SAAS;IACtB,qBAAO,2VAAC;;;;;AACV"}}]
+}

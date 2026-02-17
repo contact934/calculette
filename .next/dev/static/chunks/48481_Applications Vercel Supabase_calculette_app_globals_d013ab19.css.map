@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/jeanbaptistezirnstein/Library/Mobile%20Documents/com~apple~CloudDocs/Applications%20Vercel%20Supabase/calculette/app/globals.css"],"sourcesContent":["*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }\nhtml, body { background: #f0f4fa; }\n"],"names":[],"mappings":"AAAA;;;;;;AACA"}}]
+}
